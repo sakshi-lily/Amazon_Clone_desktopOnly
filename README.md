@@ -9,3 +9,9 @@ A desktop-only clone of the Amazon homepage built using **HTML** and **CSS**. Th
 ---
 
 ## 📌 About the Project
+
+This project recreates the desktop version of Amazon's homepage with a focus on layout, styling, and user interface design. It demonstrates the use of HTML and CSS to build a structured, visually appealing e-commerce interface.
+
+> **Note:** This project is intended for educational purposes only and is **not affiliated with Amazon**.
+
+---
