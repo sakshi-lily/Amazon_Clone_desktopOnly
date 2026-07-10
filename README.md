@@ -7,3 +7,5 @@ A desktop-only clone of the Amazon homepage built using **HTML** and **CSS**. Th
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
+
+## 📌 About the Project
