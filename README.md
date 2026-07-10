@@ -15,3 +15,4 @@ This project recreates the desktop version of Amazon's homepage with a focus on 
 > **Note:** This project is intended for educational purposes only and is **not affiliated with Amazon**.
 
 ---
+
