@@ -17,3 +17,6 @@ This project recreates the desktop version of Amazon's homepage with a focus on 
 ---
 
 
+
+- 🏠 Amazon-inspired homepage
+
